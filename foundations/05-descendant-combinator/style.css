@@ -1,0 +1,21 @@
+/* For type selectors */
+/* div p {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+} */
+/* For class selectors */
+/* .container .text {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+} */
+/* For both type and class selectors */
+div .text {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
